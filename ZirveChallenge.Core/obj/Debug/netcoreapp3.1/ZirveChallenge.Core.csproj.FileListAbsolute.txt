@@ -1,0 +1,9 @@
+D:\ZirveChallenge\ZirveChallenge.Core\bin\Debug\netcoreapp3.1\ZirveChallenge.Core.deps.json
+D:\ZirveChallenge\ZirveChallenge.Core\bin\Debug\netcoreapp3.1\ZirveChallenge.Core.dll
+D:\ZirveChallenge\ZirveChallenge.Core\bin\Debug\netcoreapp3.1\ZirveChallenge.Core.pdb
+D:\ZirveChallenge\ZirveChallenge.Core\obj\Debug\netcoreapp3.1\ZirveChallenge.Core.csprojAssemblyReference.cache
+D:\ZirveChallenge\ZirveChallenge.Core\obj\Debug\netcoreapp3.1\ZirveChallenge.Core.AssemblyInfoInputs.cache
+D:\ZirveChallenge\ZirveChallenge.Core\obj\Debug\netcoreapp3.1\ZirveChallenge.Core.AssemblyInfo.cs
+D:\ZirveChallenge\ZirveChallenge.Core\obj\Debug\netcoreapp3.1\ZirveChallenge.Core.csproj.CoreCompileInputs.cache
+D:\ZirveChallenge\ZirveChallenge.Core\obj\Debug\netcoreapp3.1\ZirveChallenge.Core.dll
+D:\ZirveChallenge\ZirveChallenge.Core\obj\Debug\netcoreapp3.1\ZirveChallenge.Core.pdb

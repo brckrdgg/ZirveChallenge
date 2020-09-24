@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.API\\ZirveChallenge.API.csproj": {}
+  },
+  "projects": {
+    "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.API\\ZirveChallenge.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.API\\ZirveChallenge.API.csproj",
+        "projectName": "ZirveChallenge.API",
+        "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.API\\ZirveChallenge.API.csproj",
+        "packagesPath": "C:\\Users\\burcukaradag\\.nuget\\packages\\",
+        "outputPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\burcukaradag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\ZirveChallenge.Core.csproj": {
+                "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\ZirveChallenge.Core.csproj"
+              },
+              "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Data\\ZirveChallenge.Data.csproj": {
+                "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Data\\ZirveChallenge.Data.csproj"
+              },
+              "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Services\\ZirveChallenge.Services.csproj": {
+                "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Services\\ZirveChallenge.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Json.Net": {
+              "target": "Package",
+              "version": "[1.0.23, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.VisualStudio.Services.Client": {
+              "target": "Package",
+              "version": "[16.153.0, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\ZirveChallenge.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\ZirveChallenge.Core.csproj",
+        "projectName": "ZirveChallenge.Core",
+        "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\ZirveChallenge.Core.csproj",
+        "packagesPath": "C:\\Users\\burcukaradag\\.nuget\\packages\\",
+        "outputPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\burcukaradag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Data\\ZirveChallenge.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Data\\ZirveChallenge.Data.csproj",
+        "projectName": "ZirveChallenge.Data",
+        "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Data\\ZirveChallenge.Data.csproj",
+        "packagesPath": "C:\\Users\\burcukaradag\\.nuget\\packages\\",
+        "outputPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\burcukaradag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\ZirveChallenge.Core.csproj": {
+                "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\ZirveChallenge.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Services\\ZirveChallenge.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Services\\ZirveChallenge.Services.csproj",
+        "projectName": "ZirveChallenge.Services",
+        "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Services\\ZirveChallenge.Services.csproj",
+        "packagesPath": "C:\\Users\\burcukaradag\\.nuget\\packages\\",
+        "outputPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\burcukaradag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\ZirveChallenge.Core.csproj": {
+                "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Core\\ZirveChallenge.Core.csproj"
+              },
+              "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Data\\ZirveChallenge.Data.csproj": {
+                "projectPath": "D:\\ZirveChallenge\\ZirveChallenge\\ZirveChallenge.Data\\ZirveChallenge.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

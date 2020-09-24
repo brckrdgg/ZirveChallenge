@@ -1,0 +1,14 @@
+D:\ZirveChallenge\ZirveChallenge.Services\bin\Debug\netcoreapp3.1\ZirveChallenge.Services.deps.json
+D:\ZirveChallenge\ZirveChallenge.Services\bin\Debug\netcoreapp3.1\ZirveChallenge.Services.dll
+D:\ZirveChallenge\ZirveChallenge.Services\bin\Debug\netcoreapp3.1\ZirveChallenge.Services.pdb
+D:\ZirveChallenge\ZirveChallenge.Services\bin\Debug\netcoreapp3.1\ZirveChallenge.Core.dll
+D:\ZirveChallenge\ZirveChallenge.Services\bin\Debug\netcoreapp3.1\ZirveChallenge.Data.dll
+D:\ZirveChallenge\ZirveChallenge.Services\bin\Debug\netcoreapp3.1\ZirveChallenge.Core.pdb
+D:\ZirveChallenge\ZirveChallenge.Services\bin\Debug\netcoreapp3.1\ZirveChallenge.Data.pdb
+D:\ZirveChallenge\ZirveChallenge.Services\obj\Debug\netcoreapp3.1\ZirveChallenge.Services.csprojAssemblyReference.cache
+D:\ZirveChallenge\ZirveChallenge.Services\obj\Debug\netcoreapp3.1\ZirveChallenge.Services.AssemblyInfoInputs.cache
+D:\ZirveChallenge\ZirveChallenge.Services\obj\Debug\netcoreapp3.1\ZirveChallenge.Services.AssemblyInfo.cs
+D:\ZirveChallenge\ZirveChallenge.Services\obj\Debug\netcoreapp3.1\ZirveChallenge.Services.csproj.CoreCompileInputs.cache
+D:\ZirveChallenge\ZirveChallenge.Services\obj\Debug\netcoreapp3.1\ZirveChallenge.Services.csproj.CopyComplete
+D:\ZirveChallenge\ZirveChallenge.Services\obj\Debug\netcoreapp3.1\ZirveChallenge.Services.dll
+D:\ZirveChallenge\ZirveChallenge.Services\obj\Debug\netcoreapp3.1\ZirveChallenge.Services.pdb

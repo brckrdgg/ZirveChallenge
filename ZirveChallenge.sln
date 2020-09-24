@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZirveChallenge.API", "ZirveChallenge.API\ZirveChallenge.API.csproj", "{14C4A3EF-6298-4FA7-BFA8-F8BC479CB8E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZirveChallenge.Core", "ZirveChallenge.Core\ZirveChallenge.Core.csproj", "{6B41A01A-C7CE-4939-8B94-8F976892A9A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZirveChallenge.Data", "ZirveChallenge.Data\ZirveChallenge.Data.csproj", "{8AFF2F3F-3A0C-404E-ACB5-2E555E110579}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZirveChallenge.Services", "ZirveChallenge.Services\ZirveChallenge.Services.csproj", "{CF425EF3-E496-43E5-8409-2DD1CFC8BE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C4A3EF-6298-4FA7-BFA8-F8BC479CB8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C4A3EF-6298-4FA7-BFA8-F8BC479CB8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C4A3EF-6298-4FA7-BFA8-F8BC479CB8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C4A3EF-6298-4FA7-BFA8-F8BC479CB8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B41A01A-C7CE-4939-8B94-8F976892A9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B41A01A-C7CE-4939-8B94-8F976892A9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B41A01A-C7CE-4939-8B94-8F976892A9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B41A01A-C7CE-4939-8B94-8F976892A9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFF2F3F-3A0C-404E-ACB5-2E555E110579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFF2F3F-3A0C-404E-ACB5-2E555E110579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFF2F3F-3A0C-404E-ACB5-2E555E110579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFF2F3F-3A0C-404E-ACB5-2E555E110579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF425EF3-E496-43E5-8409-2DD1CFC8BE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF425EF3-E496-43E5-8409-2DD1CFC8BE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF425EF3-E496-43E5-8409-2DD1CFC8BE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF425EF3-E496-43E5-8409-2DD1CFC8BE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A89D53E-C6F2-4508-B78B-BCA69E5A6FCE}
+	EndGlobalSection
+EndGlobal
